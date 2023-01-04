@@ -16,6 +16,7 @@ with sr.Microphone() as source:
 
     except Exception as ex:
         print(ex)
+    # This is a comment
 
 # automaited mails:
 
